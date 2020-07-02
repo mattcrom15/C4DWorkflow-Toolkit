@@ -1,3 +1,7 @@
+### solo and frame selected objects
+### unsolo and frame all objects
+
+
 import c4d
 
 
